@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk and orange"
+    },
+    {
+      "id": "2",
+      "text": "buy groceries"
+    },
+    {
+      "id": "3",
+      "text": "Adding a new task"
+    },
+    {
+      "id": "4",
+      "text": "Go to gym"
+    },
+    {
+      "id": "3fc702b2-fe7b-41f8-88a3-5d9c9a084011",
+      "text": "Learning NextJs"
+    },
+    {
+      "id": "a193064f-1b7f-4d83-ab94-7aa7d8dc177a",
+      "text": "Building a Website"
+    }
+  ]
+}
