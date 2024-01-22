@@ -1,6 +1,6 @@
 import { ITask } from "@/types/tasks";
 
-const baseUrl = "https://to-do-list-iota-indol.vercel.app";
+const baseUrl = "http://localhost:3001";
 
 export const getAllTodos = async (): Promise<ITask[]> => {
   const res = await fetch(`${baseUrl}/tasks`, { cache: "no-store" });
